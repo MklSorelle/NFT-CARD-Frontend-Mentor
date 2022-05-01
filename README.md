@@ -1,3 +1,3 @@
 # NFT CARD
  
-An NFT CARD mady by me, a challenge giving by Frontend Mentor 
+An NFT CARD made by me, a challenge giving by Frontend Mentor 
